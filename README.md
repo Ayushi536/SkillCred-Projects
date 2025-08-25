@@ -1,4 +1,5 @@
 📌 1. MicrolearnScriptCreator
+
 🔹 Overview
 
 MicrolearnScriptCreator helps educators, students, and content creators by generating 1–2 minute microlearning scripts. Simply input a complex topic (e.g., Quantum Computing, Tax Law Basics, Climate Change), and the app produces a short, clear, and structured script suitable for explainer videos or learning modules.
@@ -24,6 +25,7 @@ Dependencies: see requirements.txt
 Environment Config: .env.template
 
 📌 2. Sentiment
+
 🔹 Overview
 
 Sentiment is a full-stack sentiment analysis app that processes user input and classifies emotions (Positive, Negative, Neutral). It provides a sleek Next.js frontend and a Python backend API, making it easy to integrate into modern web workflows.
